@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sank1105&label=Profile%20views&color=0e75b6&style=flat" alt="sank1105" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning,Power-Bi**
-
 - 📫 How to reach me **sanketshivade@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
